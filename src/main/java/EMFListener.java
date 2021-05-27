@@ -1,5 +1,3 @@
-package com.launchacademy.hackbook;
-
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 import javax.servlet.ServletContextEvent;

@@ -14,7 +14,7 @@ Acceptance Criteria:
 - I am prompted for the hacker's first name, last name, email address, and preferred language, and whether I'm actively hacking
 - After successfully entering a profile, I am redirected to the hacker listing
 
-## List Pets
+## List Hackorzz
 
 ```no-highlight
 As a fellow hacker
